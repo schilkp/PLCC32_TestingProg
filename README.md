@@ -1,7 +1,7 @@
 # PLCC_TestingProg
 ### Philipp Schilk
 
-A board for programming/testing the SST39SF040 flasch IC. 
+A board for programming/testing the SST39SF040 flash IC. 
 It includes a PLCC32 Socket, breakouts of the Data, Address and Control Lines,
 and optional shift registers to drive the address lines during programming.
 
@@ -11,12 +11,7 @@ breakout.
 Designed for the SST39SF040, but also usable with all other chips in the family
 (F020, F010). Could be compatible with many other flash chips with similar layout. 
 
-![PCB v0.0 Render](https://raw.githubusercontent.com/TheSchilk/PLCC32_TestingProg/master/Doc/ProgrammingBoard_PCBv0.0_Render.jpg)
-
-## Status
-Currently waiting on the first prototype.
-
-*Design is **untested**!*
+![PCB v0.1 Render](https://raw.githubusercontent.com/TheSchilk/PLCC32_TestingProg/master/Doc/ProgrammingBoard_PCBv0.1_Render.png)
 
 ## Overview
 
